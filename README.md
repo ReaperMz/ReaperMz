@@ -35,17 +35,32 @@ I specialize in delivering seamless, responsive, and performant web & mobile app
 
 ### 🛠️ Tech Stack
 
-```mermaid
-flowchart LR
-  A[Flutter/Dart] -- Mobile --> B((📱))
-  C[React/Next.js] -- Web --> D((🖥️))
-  E[MERN Stack] -- Fullstack --> F((🌐))
-  G[TypeScript] -- Typed JS --> D
-  H[Python] -- Backend/API --> F
-  I[Swift] -- iOS --> B
-  J[Vue.js] -- UI Framework --> D
-  K[Tailwind CSS] -- Styling --> D
-```
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Mobile-71f7ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flutter/Dart-0175C2?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Web-0fffc0?style=for-the-badge&logoColor=white&labelColor=0d1117" /></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Fullstack-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0d1117" /></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MERN-00ED64?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -55,10 +70,22 @@ flowchart LR
 
 ### 📊 Stats & Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ReaperMz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0fffc0&icon_color=71f7ff&text_color=adbac7" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaperMz&layout=compact&hide_border=true&bg_color=0d1117&title_color=0fffc0&text_color=adbac7" height="165" />
-</p>
+<div style="display: flex; justify-content: center;">
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/ReaperMz">
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ReaperMz&theme=tokyonight&hide_border=true&background=0d1117&stroke=0fffc0&fire=71f7ff&ring=0fffc0&currStreakNum=71f7ff&sideNums=0fffc0&currStreakLabel=0fffc0&sideLabels=71f7ff&dates=adbac7" />
+  </a>
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 10px;">
+  <!-- GitHub Activity Graph -->
+  <img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReaperMz&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0fffc0&text_color=adbac7" />
+</div>
+
+<!-- Trophies -->
+<div style="margin-top: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=ReaperMz&theme=darkhub&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</div>
 
 </div>
 
