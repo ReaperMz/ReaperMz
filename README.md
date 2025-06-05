@@ -74,11 +74,6 @@
 
   <br/><br/>
   
-  <div>
-    <a href="https://git.io/typing-svg">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Let's%20build%20the%20future%20of%20tech%20together&fontSize=16&fontColor=white&animation=twinkling&height=40" alt="Building the future" />
-    </a>
-  </div>
 </div>
 
 <!--
