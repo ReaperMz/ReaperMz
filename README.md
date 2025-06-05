@@ -78,16 +78,6 @@ I specialize in delivering seamless, responsive, and performant web & mobile app
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 10px;">
-  <!-- GitHub Activity Graph -->
-  <img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReaperMz&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0fffc0&text_color=adbac7" />
-</div>
-
-<!-- Trophies -->
-<div style="margin-top: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReaperMz&theme=darkhub&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</div>
-
-</div>
 
 ---
 
