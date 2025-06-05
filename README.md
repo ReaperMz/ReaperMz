@@ -71,8 +71,6 @@
   <a href="https://twitter.com/your-handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-71f7ff?style=for-the-badge&logo=twitter&logoColor=22272e&labelColor=22272e" />
   </a>
-
-  <br/><br/>
   
 </div>
 
