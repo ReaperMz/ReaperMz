@@ -1,109 +1,86 @@
 <!--
-  Hi there! 👋
-  Welcome to my GitHub profile.
-  This README uses GitHub's Markdown & shields for a clean, minimal, and slightly futuristic vibe.
-  For best effect, view this on GitHub's dark mode!
+  Welcome to ReaperMz's GitHub profile.
+  Last updated: 2025-06-05
+  For best effect, view in GitHub dark mode!
 -->
 
-<h1 align="center" style="border-bottom: none;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0FFFC0&vCenter=true&width=500&lines=Hi%2C+I'm+ReaperMz;Fullstack+Developer;Code+%7C+Design+%7C+Innovate" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,react,nextjs,nodejs,express,mongodb,python,swift,vue,tailwindcss" alt="Tech Stack" />
-</p>
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0fffc0&height=120&section=header&text=Fullstack%20Developer&fontSize=42&fontColor=71f7ff&animation=fadeIn" />
+</div>
 
 <div align="center">
+  <!-- Tech Classification Tags -->
+  <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Swift-50AFED?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Web-ReactJS%20%7C%20NextJS%20%7C%20VueJS%20%7C%20TypeScript%20%7C%20Tailwind-0fffc0?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Fullstack-MERN%20%7C%20Python-71f7ff?style=flat-square&labelColor=0d1117" />
+</div>
 
-### 👨‍💻 About Me
-
-I am a passionate **Fullstack Developer** with a flair for futuristic UI, DX, and robust backend solutions.  
-I specialize in delivering seamless, responsive, and performant web & mobile applications.
-
-- 🚀 Building with **Flutter/Dart**, **React**, **Next.js**, **TypeScript**, **MERN**, **Vue.js**, **Swift**, **Tailwind CSS**, **Python**.
-- 🎨 Minimalist by design, futurist at heart.
-- 🌏 Open-source & collaboration enthusiast.
-- 🛠️ Always learning, always building.
-
+<div align="center">
+  <!-- Tech Icons in Single Line -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=flutter,swift,ts,react,nextjs,vue,nodejs,express,mongodb,python,tailwind" alt="Tech Stack" />
+  </p>
 </div>
 
 ---
 
 <div align="center">
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25" /> About Me</h3>
+  
+  <div style="background: linear-gradient(45deg, #0fffc0, #71f7ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600; font-size: 1.1em;">
+    Passionate Fullstack Developer crafting future-ready digital experiences
+  </div>
+  
+  <p style="max-width: 600px; margin: 0 auto;">
+    I specialize in delivering seamless, responsive, and performant web & mobile applications with a focus on minimalist design and robust functionality.
+  </p>
 
-### 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Mobile-71f7ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Flutter/Dart-0175C2?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=0d1117" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Web-0fffc0?style=for-the-badge&logoColor=white&labelColor=0d1117" /></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Fullstack-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0d1117" /></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MERN-00ED64?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
-    </td>
-  </tr>
-</table>
-
+  <br/>
+  
+  <table>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" /></td>
+      <td><strong>Building with</strong> Flutter/Dart, ReactJS, NextJS, TypeScript, MERN, VueJS, Swift, Tailwind CSS, Python</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="20" /></td>
+      <td><strong>Minimalist by design</strong>, futurist at heart</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="20" /></td>
+      <td><strong>Open-source</strong> & collaboration enthusiast</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" /></td>
+      <td><strong>Always learning</strong>, always building</td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <div align="center">
+  <h3>📫 Connect</h3>
 
-### 📊 Stats & Activity
-
-<div style="display: flex; justify-content: center;">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/ReaperMz">
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ReaperMz&theme=tokyonight&hide_border=true&background=0d1117&stroke=0fffc0&fire=71f7ff&ring=0fffc0&currStreakNum=71f7ff&sideNums=0fffc0&currStreakLabel=0fffc0&sideLabels=71f7ff&dates=adbac7" />
+  <a href="https://www.linkedin.com/in/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=22272e" />
   </a>
-</div>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-0fffc0?style=for-the-badge&logo=gmail&logoColor=22272e&labelColor=22272e" />
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-71f7ff?style=for-the-badge&logo=twitter&logoColor=22272e&labelColor=22272e" />
+  </a>
 
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-
----
-
-<div align="center">
-
-### 📫 Connect
-
-<a href="https://www.linkedin.com/in/your-username" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=22272e" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-0fffc0?style=for-the-badge&logo=gmail&logoColor=22272e&labelColor=22272e" />
-</a>
-<a href="https://twitter.com/your-handle" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-71f7ff?style=for-the-badge&logo=twitter&logoColor=22272e&labelColor=22272e" />
-</a>
-
-</div>
-
----
-
-<div align="center" style="font-size:0.9em;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=71f7ff&vCenter=true&width=400&lines=Let's+build+the+future+of+tech+together!" alt="Let's build the future" />
+  <br/><br/>
+  
+  <div>
+    <a href="https://git.io/typing-svg">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Let's%20build%20the%20future%20of%20tech%20together&fontSize=16&fontColor=white&animation=twinkling&height=40" alt="Building the future" />
+    </a>
+  </div>
 </div>
 
 <!--
-  Responsive, minimal, and "reactive" via SVGs & shields.
-  For a more dynamic profile, link to GitHub Actions or personal portfolio.
+  GitHub Profile by ReaperMz - 2025
 -->
